@@ -27,7 +27,7 @@ public class IntroToEnums {
 
 		// 3. Create an array of StatesOfMatter with all the values using .values().
 		// Hint: Use "StatesOfMatter." as if it were a static method.
-
+statesOfMatter.
 		// 4. Ask the user for a state of matter.
 
 		// 5. Iterate through the array and find what the user entered.
