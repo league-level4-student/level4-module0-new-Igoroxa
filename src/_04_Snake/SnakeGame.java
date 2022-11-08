@@ -116,6 +116,16 @@ public class SnakeGame implements ActionListener, KeyListener {
 		 * 
 		 * Hint: KeyEvent.VK_UP.
 		 */
+		
+		
+		switch (e.getKeyCode()) {
+		
+		case KeyEvent.VK_UP:
+			 snake.setDirection() = UP;
+		
+		
+		
+		}
 
 	}
 
